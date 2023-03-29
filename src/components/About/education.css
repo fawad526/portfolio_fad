@@ -1,0 +1,38 @@
+
+.table1{
+    border: none;
+    border-collapse: collapse;
+    border: 2px solid #132347;
+    border-radius: 10px;
+}
+
+th{
+   background: #7865ff;
+   width:25%;
+
+}
+th,
+td{
+    padding:1rem 1rem !important;
+    font-size: 1rem;
+
+}
+thead{
+    color:#fff;
+
+}
+td{
+    font-size: .9rem;
+    color: #fff;
+    font-weight: 500;
+}
+td:nth-child(even){
+    background:#102048 ;
+}
+@media only screen and (max-width:992px)
+{
+    th,td{
+        font-size: .7rem;
+        padding:.8rem;
+    }
+}

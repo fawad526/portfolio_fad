@@ -1,0 +1,52 @@
+
+.skills__wrapper{
+    background: #132347;
+    padding: 20px;
+    border-radius: 10px;
+}
+.frontend__skill{
+   background: #132347;
+}
+.skill__data{
+    background:#132347
+}
+.skill__bar{
+
+    width: 100%;
+    position: relative;
+    background: #c1ceff;
+    border-radius: 50px;   
+    height: 5px;
+    z-index: 999;
+}
+.skill__bar-percentage{
+   background:  #7865ff;
+    position: absolute;
+    z-index:100;
+    top: 0;
+    left: 0;
+    height: 5px;
+    border-radius:50px;
+    
+}
+.skill__title span{
+    color:#fff;
+    background: #132347;
+}
+
+.skill__title{
+    margin-bottom: 10px;
+    background: #132347;
+}
+.backend__skill{
+background: #132347;
+}
+
+@media only screen and (max-width:992px){
+    .skill__title h6{
+        font-size: .8rem;
+    }
+    .skill__title span{
+        font-size: .7rem;
+    }
+}
