@@ -9,7 +9,7 @@ import {Typewriter} from "react-simple-typewriter"
 const HeroSection = () => {
   
   const downloadResume = () => {
-    const url = {pdffile};
+    const url = `${pdffile}`;
     const a = document.createElement('a');
     a.href = url;
     a.download = 'resume.pdf';
