@@ -1,0 +1,52 @@
+
+.single__service{
+    background: #132247;
+    padding: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    border-bottom: 1px solid #7865ff;
+    transition: .4s;
+}
+.services__top{
+    background: none;
+
+}
+.service__icon{
+    color:#7865ff;
+    font-size: 2.2rem;
+    background:#132347;
+}
+.services__top h6{
+    color:#7865ff;
+    background: none;
+    margin-bottom: 15px;
+}
+.single__service h2{
+    background: #132347;
+    font-size: 1.4rem;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.single__service p{
+    font-weight: 300;
+    background: #132247;
+    line-height: 30px;
+}
+.service__icon i{
+    background:#132347;
+}
+.single__service:hover{
+    transform:translateY(-15px);
+    
+}
+@media only screen and(max-width:992px){
+    .single__service h2{
+        font-size: 1.3rem;
+        margin-bottom: 10px;
+    }
+    .single__service p{
+       font-size: .8rem; 
+       line-height: 28px;
+    }
+    
+}

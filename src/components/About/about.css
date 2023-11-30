@@ -1,0 +1,118 @@
+
+.about__btns{
+    background: #102048;
+    border-radius: 10px;
+    border-bottom: 1px solid #7865FF;
+}
+.about__btns button{
+    border-bottom: 1px solid #7865FF;
+}
+.about__btn{
+    width: 100%;
+    padding:28px;
+    color:#fff;
+    background: transparent;
+  
+    border: none;
+    outline:none; 
+    border-radius: 5px 5px 0px 0px;
+}
+.about__btn-active{
+     background: #7865FF;
+     color:white;
+     width: 100%;
+     padding: 18px;
+     border: none;
+}
+.about__btn:last-child{
+    border-bottom: 0;
+    border-radius: 0px 0px 5px 5px;
+}
+.about__content__wrapper{
+    border-radius:10px;
+    padding: 35px;
+    background: #132347;
+}
+.about__content{
+    background: #132347;
+}
+.about__content h2{
+    margin-bottom: 15px;
+    background: #132347;
+
+}
+.about__content p{
+    line-height: 30px;
+    font-weight: 300;
+    background: #132347;
+}
+.social__links span a i{
+    color:#7865FF;
+    background: #132347;
+
+
+}
+.about__img{
+    background: #7865FF;
+    border-radius: 10px;
+    padding: 10px;
+    height: 185px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+.social__links span{
+    background: #132347;
+    margin-right: 15px;
+    text-decoration: none;
+
+}
+h6{
+    background: #132347;
+}
+.social__links span a {
+    text-decoration: none;
+    background:#132347;
+}
+.social__links {
+    background: #132347;
+}
+
+/**========Responsive==========**/
+
+@media only screen and (max-width:992px) {
+    .about__btn{
+            padding: 10px 25px;
+            font-size: .8rem;
+    }
+    .about__content h2{
+        font-size: 1.5rem;
+    }
+    .about__content p{
+        font-size: .7rem;
+        line-height: 28px;
+    }
+    .about__img{
+        height: 125px;
+    }
+    
+}
+@media only screen and (max-width:576px) {
+    .about__btn{
+            padding: 10px 25px;
+            font-size: .8rem;
+    }
+    .about__btns{
+        margin-bottom: 40px;
+    }
+    .about__content h2{
+        font-size: 1.5rem;
+    }
+    .about__content p{
+        font-size: .7rem;
+        line-height: 28px;
+    }
+    .about__img{
+        height: 68px;
+    }
+    
+}
