@@ -7,6 +7,9 @@
     border-bottom: 1px solid #7865ff;
     transition: .4s;
 }
+h2{
+    color:#7865ff !important;
+}
 .services__top{
     background: none;
 
