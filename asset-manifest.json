@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio_fad/static/css/main.262cf720.css",
+    "main.js": "/portfolio_fad/static/js/main.2d0ff235.js",
+    "static/media/remixicon.svg?t=1701175860820": "/portfolio_fad/static/media/remixicon.d481f4ec6f533b68684e.svg",
+    "static/media/remixicon.eot?t=1701175860820": "/portfolio_fad/static/media/remixicon.f578d5e2aa55cd051f99.eot",
+    "static/media/remixicon.ttf?t=1701175860820": "/portfolio_fad/static/media/remixicon.59234ca5372c115b8595.ttf",
+    "static/media/remixicon.woff?t=1701175860820": "/portfolio_fad/static/media/remixicon.a7ae4ef83518192486f9.woff",
+    "static/media/Resume_Muhammad_Fawad_Iqbal.pdf": "/portfolio_fad/static/media/Resume_Muhammad_Fawad_Iqbal.b591f1b9d11ec6c08575.pdf",
+    "static/media/remixicon.woff2?t=1701175860820": "/portfolio_fad/static/media/remixicon.e2846b2533c05bce65d2.woff2",
+    "static/media/heroImg.jpeg": "/portfolio_fad/static/media/heroImg.17133b7e6cd3f65a7197.jpeg",
+    "static/media/slick.svg": "/portfolio_fad/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/portfolio_fad/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/portfolio_fad/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/portfolio_fad/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/portfolio_fad/index.html",
+    "main.262cf720.css.map": "/portfolio_fad/static/css/main.262cf720.css.map",
+    "main.2d0ff235.js.map": "/portfolio_fad/static/js/main.2d0ff235.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.262cf720.css",
+    "static/js/main.2d0ff235.js"
+  ]
+}
