@@ -10,7 +10,7 @@
     padding: 10px 30px;
     z-index: 0;
 }
-h2{
+h2 ,h6 , h5{
     color:#7865ff !important;
 }
 .single__experience, span ,i, h6, h5, p{
